@@ -4,7 +4,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: [https://drive.google.com/file/d/1JRMhTUu0cuJ069YerHzUNRi7ZPWg7M3C/view?usp=sharing]
+- 📧 Email: https://drive.google.com/file/d/1JRMhTUu0cuJ069YerHzUNRi7ZPWg7M3C/view?usp=sharing
 - 🏫 LinkedIn: [linkedin.com/in/ayush-goswami-764451257/](https://www.linkedin.com/in/ayush-goswami-764451257/)
 
 
