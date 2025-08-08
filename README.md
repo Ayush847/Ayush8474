@@ -10,7 +10,7 @@
 
 ## 🔗 Links
 
-- 🗂️ [My Resume](https://drive.google.com/file/d/1JRMhTUu0cuJ069YerHzUNRi7ZPWg7M3C/view?usp=sharing)
+- 🗂️ [My Resume](https://drive.google.com/file/d/1jyH3kuIO7xp8LzKYYlqqtdOebC-c5Rqx/view?usp=sharing)
 - 📷 [GitHub Profile](https://github.com/Ayush847)
 - 🏫 [LinkedIn](https://www.linkedin.com/in/ayush-goswami-764451257/)
 
