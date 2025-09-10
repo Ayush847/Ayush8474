@@ -103,6 +103,6 @@
 
 ## 🎓 Certificates
 
-- 📜 Foundation VLSI Design — [Issuing Organization]
-- 📜 FOUNDATION COURSE ON EMBEDDED SYSTEM DESIGN — [Issuing Organization]
-- 📜 SOC design — [Issuing Organization]
+- 📜 Foundation VLSI Design — Maven Silicon
+- 📜 FOUNDATION COURSE ON EMBEDDED SYSTEM DESIGN — Maven Silicon
+- 📜 SOC design — Maven Silicon
