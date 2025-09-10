@@ -58,21 +58,41 @@
 
 ## 🚧 Current Projects
 
-- 🤖 **Smart Hearing Aid**
+- 🤖 **[Smart Hearing Aid](https://github.com/Ayush847/smart-hearing-aid-using-DSP)**
   - Developing a hearing aid device with features like:
     - 🎧 Active noise cancellation
     - 📡 Wireless lecture mode
   - *Role*: Lead Developer
   - *Skills used*: Verilog, Python, C, Microcontrollers
 
-- 🖥️ **Digital Logic Simulation with DigitalJS**
-  - Creating and simulating digital circuits for education and hobby projects.
-  - Using tools like DigitalJS and EDA Playground for hands-on learning.
+- 🐾 **[Pet Mood Detector (Wokwi Simulation)](https://github.com/Ayush847/Pet-mood-detector)**
+  - Designed and simulated an Arduino-based system to detect a pet’s emotional state using environmental sensors.
+  - Integrated:
+    - 🌡️ DHT22 (temperature)  
+    - 🎚️ Potentiometer (sound level)  
+    - ⚡ Digital inputs (activity level)  
+  - Displayed moods via LEDs and validated results through serial output monitoring.
 
-- 🍓 **IoT Experiments with Raspberry Pi & ESP32**
-  - Prototyping smart home applications—including environment monitoring and automation—using:
-    - 🍓 Raspberry Pi
-    - 📶 ESP32
+- 🗂️ **[EDA Playground Publishments](https://edaplayground.com/playgrounds/user/491014)**
+  - Published **25+ Verilog-based digital design projects**, with more on the way.
+  - Featured works include:
+    - ⏰ Alarm Clock (Verilog HDL with LCD display & counters)  
+    - 🔢 Gray to Binary Converter  
+    - ✅ Parity Checker  
+    - 🔄 Byte Reversal Circuit  
+  - *Focus*: Strengthening VLSI design concepts through practical HDL implementations.
+
+- 🔧 **[Verilog Learning Path](https://github.com/Ayush847/verilog_learning_path)**
+  - Practicing and documenting Verilog design journey:
+    - ⚡ Basic gates  
+    - 🔢 Combinational circuits  
+    - 🔄 Sequential circuits  
+  - Repository includes:
+    - 📜 Verilog code & testbenches  
+    - 📊 Waveforms  
+    - 🖼️ Circuit diagrams auto-generated from Verilog code  
+  - *Goal*: Building a structured learning archive for digital design using Verilog.
+
 
 ## 📖 What I’m Learning
 
