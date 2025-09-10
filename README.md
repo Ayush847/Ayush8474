@@ -16,15 +16,20 @@
 
 ## 📚 About Me
 
-I am an Electronics and Communication Engineering student at VIT focused on VLSI, embedded systems, and digital design.
-
-Currently developing a smart hearing aid with features like active noise cancellation and wireless lecture mode.
-
-I leverage skills in **Verilog, Python, C, and Java**.
-
-My hands-on experience spans digital logic design, microcontrollers, and simulation using Verilog HDL and Arduino.
-
-I enjoy problem-solving, optimizing digital systems, and actively participating in technical events and campus initiatives.
+1. Currently pursuing B.Tech in Electronics and Communication Engineering at VIT Amaravati with a CGPA of 8.27.
+2. Published 20+ projects on EDA Playground, with more upcoming.
+3. Developing Smart Hearing Aid with Active Noise Cancellation (ANC) and wireless lecture mode using MATLAB, DSP, and Arduino.
+4. Built Third Sight – AI Assistive System (group project) for real-time object and hand gesture recognition using Python, TensorFlow, OpenCV, and YOLO.
+5. Created a simulation-based Pet Mood Detector using Arduino, DHT22, potentiometer, and digital inputs, integrating sensors for real-time emotion detection.
+6. Proficient in C, Python, Verilog, and Java, with experience in embedded system design and IoT projects.
+7. Skilled in tools like MATLAB, Arduino IDE, Wokwi, EDA Playground, Digital JS, Multisim, and LabVIEW.
+8. Strong problem-solving skills, collaborative mindset, and keen interest in VLSI, embedded systems, and innovative electronics projects.
+9. Certifications:
+   - Foundation – VLSI Design
+   - Foundation Course on Embedded System Design
+   - Embedded System Design
+   - VLSI System on Chip Design – Overview
+10. Seeking internship opportunities to apply skills and contribute to cutting-edge electronics and communication projects.
 
 ## 💻 Programming Languages
 
